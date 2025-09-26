@@ -1,4 +1,4 @@
 # git-demo1
 Want to create a demo for Git . 
 <br />
-Author - Ramesh Hati
+Author - Ramesh(Web Developer)
